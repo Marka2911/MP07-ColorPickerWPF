@@ -1,0 +1,9 @@
+Un panel amb el background que tingui el color que digui
+pots configurar el argb i mentre el modifiquis es canvia el bacground
+es pot cambiar amb scrollbar slider i una cosa que es de números
+en tot momento lo que esta pintat es lo que esta representat
+quan comença l'aplicacio lo que hi ha en el background te que ser els valors dels sliders scrollbars i coses
+exemple pot ser verd i li pots ficar que sigui verd pero que el argb tambe estigui verd als sliders sabe
+tambe pots fer-ho amb colorPicker de lo que hem instalat a clase Extended.wpfj
+Jo soposo que es amb binders la veritat
+te que ser enters perque sino serán decimals es pot fer amb un binding a algo que siguin enters o sigui el integerupdown
